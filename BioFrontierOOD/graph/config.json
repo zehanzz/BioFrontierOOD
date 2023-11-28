@@ -1,0 +1,17 @@
+{
+    "num_epochs": 50,
+    "learning_rate": 0.001,
+    "irm_lambda": 0.001,
+    "epsilons": 0.08771517669905544,
+    "epsilonp": 0.0821534041292585,
+    "alphas": 0.017730430455226966,
+    "alphap": 0.017243928365277803,
+    "num_iter": 2,
+    "early_patience": 10,
+    "learn_patience": 7,
+    "factor": 0.2622210369577808,
+    "sample_ratio": 0.09502599440233048,
+    "feature_ratio": 0.6081627743941479,
+    "percentage": 0.29217339111577387,
+    "weight": 0.9072234551342493
+}
